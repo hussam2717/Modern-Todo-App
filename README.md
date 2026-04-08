@@ -1,7 +1,7 @@
 # 📝Modern Todo App
 A clean and minimal Todo App built using **HTML, CSS, and JavaScript**.   This app helps users manage daily tasks with a simple and user-friendly interface.
 
-## 🌐 Live Demo - 
+## 🌐 Live Demo -  https://hussam2717.github.io/Modern-Todo-App/
 
 ## 🚀 Features
 - ➕ Add new tasks
