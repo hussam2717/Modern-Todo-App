@@ -18,3 +18,8 @@ A clean and minimal Todo App built using **HTML, CSS, and JavaScript**.   This a
 - HTML5
 - CSS3
 - JavaScript
+
+## 📂 Project Structure
+│── index.html
+│── style.css
+│── script.js
